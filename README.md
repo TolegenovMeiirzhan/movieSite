@@ -10,9 +10,9 @@ Mentor
 
 Team Members
 
- 200103226 - Tolegenov M.
- 200103207 - Kulmurzaev N
- 200103437 - Bazarbaev B
+- 200103226 - Tolegenov M.
+- 200103207 - Kulmurzaev N
+- 200103437 - Bazarbaev B
 
 
 Structure of App
