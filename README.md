@@ -27,3 +27,6 @@ Structure of App
  
 This site was created to search for a movie as a "Kinopoisk". You can search for a movie using filters and watch the movie trailer. The frontend is written in HTML5 and CSS3 and the backend is written in python (Django) and a little bit in JS (ajax). The site has the use of the ckeditor editor, the youtube plugin and flatpages.
 
+Screenshots
+
+![image](https://user-images.githubusercontent.com/91064227/168893429-c2371153-0641-4315-992a-1db540087ad4.png)
