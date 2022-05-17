@@ -5,7 +5,7 @@ ____
 
 # Mentor
 
-** Bissenbay Dauletbayev - b.dauletbayev@sdu.edu.kz**
+**Bissenbay Dauletbayev - b.dauletbayev@sdu.edu.kz**
 ____
 
 # Team Members
