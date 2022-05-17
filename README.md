@@ -40,7 +40,7 @@ ____
 ![image](https://user-images.githubusercontent.com/91064227/168894199-f705d210-3f30-4e7a-8e67-997fdcee6d89.png)
 ____
 # UR-Diagram
-![image](https://user-images.githubusercontent.com/91064227/168896716-5f65f062-5661-4c17-8635-255cdc55b39b.png)
+![image](https://user-images.githubusercontent.com/91064227/168897036-f67ee46b-db94-434e-94c1-ed67b693d660.png)
 ____
 ### Technologies
 
@@ -60,3 +60,5 @@ ____
 - $ cd FileName
 - $ python manage.py runserver
 - To update when the website is running enter: win + 'R'
+____
+____
