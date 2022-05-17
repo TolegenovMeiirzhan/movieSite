@@ -30,3 +30,15 @@ This site was created to search for a movie as a "Kinopoisk". You can search for
 Screenshots
 
 ![image](https://user-images.githubusercontent.com/91064227/168893429-c2371153-0641-4315-992a-1db540087ad4.png)
+![image](https://user-images.githubusercontent.com/91064227/168893554-bba1d807-77ba-4879-9e13-2df1094ed024.png)
+![image](https://user-images.githubusercontent.com/91064227/168893617-3a543e21-a806-441a-a4cc-e762fdbcd0c6.png)
+![image](https://user-images.githubusercontent.com/91064227/168893978-c5a856b1-7d07-42c6-90f0-98e201b06f0a.png)
+![image](https://user-images.githubusercontent.com/91064227/168894043-0eecced2-c9d0-46fe-8529-037ff7d2800c.png)
+![image](https://user-images.githubusercontent.com/91064227/168894096-23b196f7-8a99-4571-b073-e705dd3f35d6.png)
+![image](https://user-images.githubusercontent.com/91064227/168894199-f705d210-3f30-4e7a-8e67-997fdcee6d89.png)
+
+Technologies
+
+
+
+
