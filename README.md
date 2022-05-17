@@ -15,18 +15,18 @@ ____
 - **200103437 - Bazarbaev B.**
 ____
 
-# Structure of App
+# Structure of Website
 
   There are basic models like: movies, reviews, categories, ratings, actors and directors.
  Movies are added to the admin panel, each movie has its own ip, rating, actors, categories and genres.
- Users can leave reviews with their posts and names or can respond to a review. And everyone can find 
+ Users can leave reviews with their gmails and names or can respond to a review. And everyone can find 
  a movie by category (cartoons, TV series or movies), genre, year of release or rating. And each actor 
  has its own page with detailed information. And on every page of the movie you can watch the trailer and put a rating.
  ____
 ## General Info
  
-This site was created to search for a movie as a "Kinopoisk". You can search for a movie using filters and watch the movie trailer. 
-The frontend is written in HTML5 and CSS3 and the backend is written in python (Django) and a little bit in JS (ajax). The site has 
+This website was created to search for a movie as a "Kinopoisk". You can search for a movie using filters and watch the movie trailer. 
+The frontend is written in HTML5 and CSS3 and the backend is written in python (Django) and a little bit in JS (ajax). The website has 
 the use of the ckeditor editor, the youtube plugin and flatpages.
 ____
 # Screenshots
