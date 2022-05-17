@@ -25,7 +25,9 @@ Structure of App
  
  General Info
  
-This site was created to search for a movie as a "Kinopoisk". You can search for a movie using filters and watch the movie trailer. The frontend is written in HTML5 and CSS3 and the backend is written in python (Django) and a little bit in JS (ajax). The site has the use of the ckeditor editor, the youtube plugin and flatpages.
+This site was created to search for a movie as a "Kinopoisk". You can search for a movie using filters and watch the movie trailer. 
+The frontend is written in HTML5 and CSS3 and the backend is written in python (Django) and a little bit in JS (ajax). The site has 
+the use of the ckeditor editor, the youtube plugin and flatpages.
 
 Screenshots
 
@@ -40,6 +42,19 @@ Screenshots
 
 Technologies
 
+A list of technologies used within the project:
+- HTML5
+- CSS3
+- Js(ajax)
+- Python (Django)
+- Ckeditor (Django)
+- youtube plugin (Django)
+- flatpages (Django)
+- reCaptcha3
 
+Installation
 
-
+- $ git clone https://github.com/sdu-be-22/Oscar FileName
+- $ cd FileName
+- $ python manage.py runserver
+- To update when the website is running enter: win + 'R'
